@@ -5,7 +5,7 @@ header-img: img/default.jpg
 email: schweibeyond@gmail.com
 description: ""
 url: "http://schweibeyond.github.io"              # your host, for absolute URL
-baseurl: "/schweibeyond.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
