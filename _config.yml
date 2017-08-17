@@ -4,8 +4,8 @@ SEOTitle: 帅标的博客 | schweibeyond's
 header-img: img/default.jpg
 email: schweibeyond@gmail.com
 description: ""
-url: "http://schweibeyond.github.io"              # your host, for absolute URL
-baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
+url: ""              # your host, for absolute URL
+baseurl: "http://schweibeyond.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
